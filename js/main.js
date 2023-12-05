@@ -16,9 +16,9 @@ function setMap() {
             region = data[1];
 
 
-            var europeCountries = topojson.feature(region, region.objects.GeographyRegions);
+            var geographyRegions = topojson.feature(region, region.objects.collection);
 
         console.log(csvData);
-        console.log(europeCountries);
+        console.log(geographyRegions);
     }
 };
