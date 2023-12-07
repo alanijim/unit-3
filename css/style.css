@@ -24,3 +24,11 @@
     stroke-width: 2px;
 }
 
+
+.graticles {
+    fill: none;
+    stroke: #ccc; /* Light grey color */
+    stroke-width: 1;
+    stroke-opacity: 0.5;
+}
+
