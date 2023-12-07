@@ -17,3 +17,10 @@
     font-size: 1.5em;
     font-weight: bold;
 }
+
+.region {
+    fill: #000000;
+    stroke: #0f0e0e;
+    stroke-width: 2px;
+}
+
