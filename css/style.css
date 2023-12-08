@@ -24,3 +24,18 @@
     stroke-width: 2px;
 }
 
+
+.graticles {
+    fill: none;
+    stroke: #ccc; /* Light grey color */
+    stroke-width: 1;
+    stroke-opacity: 0.5;
+}
+
+.gratBackground {
+    fill: #D5E3FF;
+}
+
+.map {
+    border: medium solid #999;
+}
